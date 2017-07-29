@@ -1,2 +1,2 @@
 # cs224n
-Stanford CS223n Natural Language Processing Course
+Stanford CS224n Natural Language Processing Course
